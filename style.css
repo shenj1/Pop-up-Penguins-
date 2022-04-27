@@ -9,19 +9,19 @@ body{
 #title{
 	width:600px;
 	height:150px;
-	background-image:url('C:/Users/277Student/Desktop/gitprojects/Pop-Up Penguins/penguin_pngs/penguin_title.png');
+	background-image:url('gitprojects/Pop-Up Penguins/penguin_pngs/penguin_title.png');
 }
 .penguin1{
 	width:200px;
 	height:200px;
 	float:left;
-	background-image:url('C:/Users/277Student/Desktop/gitprojects/Pop-Up Penguins/penguin_pngs/mound_1.png');
+	background-image:url('gitprojects/Pop-Up Penguins/penguin_pngs/mound_1.png');
 }
 .penguin2{
 	width:200px;
 	height:200px;
 	float:left;
-	background-image:url('C:/Users/277Student/Desktop/gitprojects/Pop-Up Penguins/penguin_pngs/mound_2.png')
+	background-image:url('gitprojects/Pop-Up Penguins/penguin_pngs/mound_2.png')
 }
 .penguin3{
 	width:200px;
